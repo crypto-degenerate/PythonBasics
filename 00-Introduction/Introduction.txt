@@ -1,0 +1,3 @@
+#Introduction to Python Basics.
+
+The main idea of this project is to gain knowledge of the basics concepts of programming with python 
